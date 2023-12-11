@@ -32,8 +32,8 @@ User Management:
 *********
 Wireframe
 *********
-   
-.. image:: wireframe.png
+
+.. image:: project-wireframe.png
     :alt: Wireframe Image
     :width: 500
     :align: center
