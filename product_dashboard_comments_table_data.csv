@@ -1,0 +1,4 @@
+"comment_id";"product_id";"user_id";"comment";"created_at"
+1;1;1;"my comment first";"2023-11-22 00:00:00"
+2;2;6;"nice cap";"2023-12-02 00:00:00"
+3;2;6;"100% solid";"2023-12-02 00:00:00"

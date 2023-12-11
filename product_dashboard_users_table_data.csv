@@ -1,0 +1,9 @@
+[{"id":1, "admin":1, "firstname":"steve", "lastname":"asdasd", "email":"steve1@email.com", "password":"$2y$10$xVFOQHy41AEKcxc7wx77leBZ3TmkxjOcM8Wi58rLlDaV7O85gklkW", "created_at":"2023-11-21 00:00:00", "updated_at":""},
+ {"id":2, "admin":0, "firstname":"test", "lastname":"asda", "email":"test1@email.com", "password":"$2y$10$u67mrYgjtDEHmu1rtDl0Pe4ptB31WcP7sv013KujHXMEhvL6xNTKC", "created_at":"2023-11-21 00:00:00", "updated_at":""},
+ {"id":3, "admin":0, "firstname":"teasdas", "lastname":"dsss", "email":"test2@email.com", "password":"$2y$10$Ec701.OstV3N1UVmH8CvVOYy6o.rMuvxleX9fvN1cpfJKMUUrf.r6", "created_at":"2023-11-21 00:00:00", "updated_at":""},
+ {"id":4, "admin":0, "firstname":"asdad", "lastname":"aaaa", "email":"test3@email.com", "password":"$2y$10$Or7YgCRMQpqEh7eiHi1ZDe/n4lgj.aTXKGHrY08FbHYfXYonJ/V3K", "created_at":"2023-11-21 00:00:00", "updated_at":""},
+ {"id":5, "admin":1, "firstname":"safffas", "lastname":"asasa", "email":"admin@email.com", "password":"$2y$10$VpOf3CfUjvKkwpWIGcpcaeYGeafTsxKpRC6sLRnqLnnplruPEsVG6", "created_at":"2023-11-21 00:00:00", "updated_at":""},
+ {"id":6, "admin":0, "firstname":"test", "lastname":"ticles", "email":"testx@email.com", "password":"$2y$10$mHG2lvG67UPzqrdI8I.eROoyFapWxg5dYlyDS/kn2kDobaA/N2Msa", "created_at":"2023-12-01 00:00:00", "updated_at":""},
+ {"id":7, "admin":0, "firstname":"tester", "lastname":"tester", "email":"tester@email.com", "password":"$2y$10$jf.SRj3SfE3RAwvhgp3tvOZsoVxkvt0fQScp677DwdPKNAHvSJmkG", "created_at":"2023-12-06 00:00:00", "updated_at":""},
+ {"id":8, "admin":0, "firstname":"john", "lastname":"doe", "email":"john_doe@email.com", "password":"$2y$10$HAlOL5oin6A4HvQSuWSiqOsYL1qFOf2O/ZcJ1NzL0Lji6795Z0Fei", "created_at":"2023-12-11 00:00:00", "updated_at":""},
+ {"id":9, "admin":1, "firstname":"john", "lastname":"wick", "email":"john_wick@email.com", "password":"$2y$10$gcG/d9YAIegGwckT1szVHedR6mVz5KRR3nkRMRxb2HYhlLYrJONs6", "created_at":"2023-12-11 00:00:00", "updated_at":""}]

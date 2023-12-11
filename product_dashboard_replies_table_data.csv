@@ -1,0 +1,5 @@
+"reply_id";"product_id";"user_id";"comment_id";"reply";"created_at"
+4;1;6;1;"this is my reply to a comment in the tshirt product";"2023-12-01"
+5;1;6;1;"second reply frome me again";"2023-12-01"
+6;2;1;2;"it is nice indeed &lt;3";"2023-12-02"
+7;2;6;2;"hehe";"2023-12-02"
