@@ -29,13 +29,15 @@ User Management:
         Add comments and reviews to products.
         Reply to existing comments/reviews.
         Update user/admin profile information and password.
-
+*********
 Wireframe
+*********
+   
 .. image:: wireframe.png
     :alt: Wireframe Image
     :width: 500
     :align: center
-    
+
 System Requirements
 
     PHP 7.4 or later
