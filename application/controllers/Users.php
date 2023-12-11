@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+// TODO: make another class for validations
 class Users extends CI_Controller 
 {
 	public function __construct()
